@@ -1,4 +1,4 @@
-import './styles/styles.scss'
+import './styles/estilosGlobais.scss'
 import HomePage from "./Pages/HomePage";
 
 export default function App() {
